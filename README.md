@@ -17,7 +17,7 @@
 ###
 
 <p align="left">Olá, me chamo Lucas, tenho 19 anos e sou natural de Minas Gerais.
-  <br>No meu tempo livro gosto de livros, filmes e músicas.
+  <br>No meu tempo livre gosto de livros, filmes e músicas.
   <br>Sou desenvolvedor com foco em Backend, apaixonado por tecnologia e por aprender coisas novas.
   <br><br>📚 Estudante de Engenharia de Software na PUC Minas<br>⚡ Técnico em Eletrônica pelo CEFET-MG
 </p>
@@ -29,35 +29,23 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
+  <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="laravel logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo"  />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo" />
   <img width="12" />
-  
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgres logo"  />
+  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgres logo" />
   <img width="12" />
-
-  <img src="https://skillicons.dev/icons?i=typescript" height="40" alt="typescript logo"  />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=javascript" height="40" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html logo"  />
+  <img src="https://skillicons.dev/icons?i=typescript" height="40" alt="typescript logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
+  <img src="https://skillicons.dev/icons?i=vue" height="40" alt="vuejs logo" />
   <img width="12" />
-
-  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="c++ logo"  />
-  <img width="12" />
-</div>
-
-### 📊 Estatísticas
-<div>
-    <img src="https://github-readme-stats.vercel.app/api?username=lucasfrgabriel&show_icons=true&theme=react&include_all_commits=true&locale=pt-br" height="150" alt="stats card" />
-    <img src="https://streak-stats.demolab.com?user=lucasfrgabriel&locale=pt-br&theme=react&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
+  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo" />
 </div>
